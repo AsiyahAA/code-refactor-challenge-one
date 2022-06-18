@@ -1,5 +1,4 @@
 # code-refactor-challenge-one
-# Table of Contents
 ## Description
 ### Project purpose was to edit a functioning website in order to make the website more accessible to users and to clean up the HTML and CSS code and fix redundancies. Motivation for this project was to ensure users have access to the website and that all conditions of accessiblity are met. I used GitHub, Visual Studio Code and GitBash Terminal to download initial code, make edits to the code, and to upload all changes to Github.   
 ## User
